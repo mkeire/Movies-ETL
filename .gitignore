@@ -2,3 +2,4 @@ ratings.csv
 movies_metadata.csv
 .ipynb_checkpoints
 wikipedia.movies.json
+config.py
